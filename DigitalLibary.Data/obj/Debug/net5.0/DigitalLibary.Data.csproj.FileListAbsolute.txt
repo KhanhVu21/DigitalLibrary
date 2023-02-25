@@ -1,0 +1,96 @@
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.deps.json
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.AssemblyReference.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfoInputs.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.AssemblyInfo.cs
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.csproj.CoreCompileInputs.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\refint\DigitalLibary.Data.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Data\obj\Debug\net5.0\ref\DigitalLibary.Data.dll

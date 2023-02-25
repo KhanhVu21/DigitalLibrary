@@ -1,0 +1,120 @@
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+E:\Working\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+C:\Users\NXC\Desktop\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+C:\Users\NXC\Desktop\New folder\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+D:\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+D:\DpdProject\ThuVienSo\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+D:\DpdProject\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+C:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.deps.json
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Service.pdb
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\bin\Debug\net5.0\DigitalLibary.Data.pdb
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.AssemblyReference.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfoInputs.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.AssemblyInfo.cs
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CoreCompileInputs.cache
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.csproj.CopyComplete
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\refint\DigitalLibary.Service.dll
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\DigitalLibary.Service.pdb
+D:\ProjectsDPD\thuvienso_v1\Backend\DigitalLibary\DigitalLibary.Service\obj\Debug\net5.0\ref\DigitalLibary.Service.dll
